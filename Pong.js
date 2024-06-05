@@ -112,4 +112,3 @@ function marcaPonto() {
   if (xBolinha < 15) {
     pontosDoOponente += 1;
   }
-}
